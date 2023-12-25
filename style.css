@@ -48,25 +48,22 @@ footer {
   .main {
     flex: .5;
     float: left;
+    align-items: center;
   }
   h1 {
     font-size: 3rem;
-    margin-top: 60px;
+    margin-top: 50px;
     text-align: center;
   }
   .left{
     float: left;
-    display: block;
   }
   .right{
     float:left;
-    display: block;
-    margin-right: 20%;
+    margin-right: 100%;
     width: 50%;
   }
   .card-title{
-    margin: 0%;
-    padding: 0%;
     float: left;
   }
   .card-text{
@@ -76,8 +73,6 @@ footer {
   .logo{
     width: 30%;
     float: left;
-    margin: 0%;
-    padding: 0%;
   }
   .tile-image{
     height: 200px;
